@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "endereco": {
+      "cep": "05403-000",
+      "logradouro": "Avenida Doutor Enéas Carvalho de Aguiar",
+      "complemento": "",
+      "bairro": "Cerqueira César",
+      "localidade": "São Paulo",
+      "uf": "SP"
+    },
+    "nomeHospital": "Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo"
+  },
+  {
+    "id": 2,
+    "endereco": {
+      "cep": "90035-007",
+      "logradouro": "Rua Ramiro Barcelos",
+      "complemento": "de 2023 ao fim - lado ímpar",
+      "bairro": "Santana",
+      "localidade": "Porto Alegre",
+      "uf": "RS"
+    },
+    "nomeHospital": "Hospital de Clínicas de Porto Alegre"
+  },
+  {
+    "id": 3,
+    "endereco": {
+      "cep": "52010-075",
+      "logradouro": "Avenida Governador Agamenon Magalhães",
+      "complemento": "de 2 ao fim - lado par",
+      "bairro": "Paissandu",
+      "localidade": "Recife",
+      "uf": "PE"
+    },
+    "nomeHospital": "Real Hospital Português"
+  },
+  {
+    "id": 4,
+    "endereco": {
+      "cep": "69020-030",
+      "logradouro": "Avenida Joaquim Nabuco",
+      "complemento": "de 785/786 a 1509/1510",
+      "bairro": "Centro",
+      "localidade": "Manaus",
+      "uf": "AM"
+    },
+    "nomeHospital": "Hospital Samel"
+  },
+  {
+    "id": 5,
+    "endereco": {
+      "cep": "14801-160",
+      "logradouro": "Avenida Barroso",
+      "complemento": "até 1518/1519",
+      "bairro": "Centro",
+      "localidade": "Araraquara",
+      "uf": "SP"
+    },
+    "nomeHospital": "Multimagem"
+  },
+  {
+    "id": 6,
+    "endereco": {
+      "cep": "22251-050",
+      "logradouro": "Rua Bambina",
+      "complemento": "",
+      "bairro": "Botafogo",
+      "localidade": "Rio de Janeiro",
+      "uf": "RJ"
+    },
+    "nomeHospital": "Hospital Samaritano - RJ"
+  },
+  {
+    "id": 7,
+    "endereco": {
+      "cep": "30110-062",
+      "logradouro": "Avenida do Contorno",
+      "complemento": "de 8162 a 9016 - lado par",
+      "bairro": "Santo Agostinho",
+      "localidade": "Belo Horizonte",
+      "uf": "MG"
+    },
+    "nomeHospital": "Mater Dei Hospital Contorno"
+  }
+]
